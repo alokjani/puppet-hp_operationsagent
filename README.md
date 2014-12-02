@@ -76,7 +76,7 @@ Possible options are:
 The complete path to the Zip Archive containing the HP Operations Agent
 See README.md for more details
 
-####`archive_extract_to
+####`archive_extract_to`
 The directory path into which to extract the HP Operations Agent Zip Archive
 
 ####`executable_7za`
