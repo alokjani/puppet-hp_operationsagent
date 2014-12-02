@@ -1,0 +1,14 @@
+{
+  "name": "puppet-hp_operationsagent",
+  "version": "0.1.0",
+  "author": "Alok Jani",
+  "summary": "Puppet module to install HP Operations Monitoring Agent on Windows",
+  "license": "Apache 2.0",
+  "source": "https://github.com/JioCloud/puppet-hp_operationsagent.git",
+  "project_page": "https://github.com/JioCloud/puppet-hp_operationsagent",
+  "issues_url": "https://github.com/JioCloud/puppet-hp_operationsagent/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
